@@ -51,14 +51,12 @@
 ## 📊 My Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmrKataria&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrKataria)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrKataria&show_icons=true&include_all_commits=true&count_private=true)  
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AmrKataria/contributions?format=svg&include_all_commits=true&count_private=true&theme=light)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AmrKataria)
 
 
 
-  
 
 
 
