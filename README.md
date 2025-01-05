@@ -15,39 +15,42 @@
 </li>
 
 
+"A motivated and self-driven Software Engineer with a solid foundation in Information Technology, honed through rigorous training at the prestigious Information Technology Institute (ITI). I am passionate about leveraging my technical expertise and problem-solving skills to develop innovative, scalable, and user-centric solutions. My goal is to collaborate with forward-thinking teams, embrace emerging web technologies, and contribute to impactful projects that drive meaningful change and enhance the quality of life for communities worldwide."
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto: mohmedadm733@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png" alt="Email" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohamed-hesham-b0b542259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer"> <img src="https://cdn.alsacreations.net/xmedia/doc/full/1670091904-es-ecmascript-logo.png" alt="ecmascript" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=24895&format=png" alt="NPM" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=40&id=WNoJgbzDr3i2&format=png" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=webp&w=256" alt="python" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
-</p>
-<h3 align="left">Some of languages and tools, I have worked with:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/ar/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=13654&format=png" alt="Excel" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/ar/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=13674&format=png" alt="Word" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/ar/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=JdOSrU3pawBf&format=png" alt="Access" width="40" height="40"/> </a>
-</p>
+### Skills
+![Angular](https://img.shields.io/badge/-Angular-D60000?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![ES6](https://img.shields.io/badge/-ES6-000000?style=flat&logo=javascript&logoColor=white)
+
+- 🔭 I’m currently working remotely with **Xmotion** in Saudi Arabia, contributing to innovative solutions and challenging projects.  
+- 🌱 I’m currently improving my coding skills and exploring other frameworks like **React Native** to expand my expertise.  
+- 🚀 I’m passionate about staying ahead in technology trends and continuously enhancing my skills in **JavaScript**, **TypeScript**, and beyond.  
+
+
+
+## 🌐 Connect with me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amrkataria)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amrkataria)  
+
+## 🎖️ Badges
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+## 📊 GitHub Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amrkataria)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrkataria)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrkataria&show_icons=true&count_private=true)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Amrkataria/contributions?format=svg&private=true)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Amrkataria)
+  
+
 
 
 
